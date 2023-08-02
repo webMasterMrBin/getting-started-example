@@ -1,0 +1,9 @@
+44 error Error: Command failed with exit code 1: git commit -m v0.0.1
+44 error 位于分支 main
+44 error 您的分支与上游分支 'origin/main' 一致。
+44 error
+44 error 无文件要提交，干净的工作区
+44 error     at makeError (/Users/lbsong/slb-project-test/getting-started-example/node_modules/execa/lib/error.js:60:11)
+44 error     at handlePromise (/Users/lbsong/slb-project-test/getting-started-example/node_modules/execa/index.js:118:26)
+44 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+44 error     at async Promise.all (index 0)
